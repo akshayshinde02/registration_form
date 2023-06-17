@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: aliceblue;
+}
+
+.container{
+   text-align: center;
+   background-color: rgb(209, 209, 204);
+  margin: 140px 200px 0 200px;
+   height: 50%;
+}
+
